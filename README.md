@@ -48,7 +48,7 @@ Make sure you have Python 3.12+ and pip installed. Also, IDE (VSCode, PyCharm, e
 
 1.  **Clone the repo:**
     ```sh
-    git clone [https://github.com/Oluwatobi-coder/Leapstart-Mentorship-Program-2.0-Data-Science-Group-3rd-Week-Live-Demo.git](https://github.com/Oluwatobi-coder/Leapstart-Mentorship-Program-2.0-Data-Science-Group-3rd-Week-Live-Demo.git)
+    git clone https://github.com/Oluwatobi-coder/Leapstart-Mentorship-Program-2.0-Data-Science-Group-3rd-Week-Live-Demo.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
