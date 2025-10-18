@@ -22,7 +22,7 @@ The following important questions where asked:
 6. Are there income disparities across different racial groups?
 
 ## 📖Project Reporting
-* A copy of the report is available for view in the `/report_pdf` directory.
+A copy of the report is available for view in the `/report_pdf` directory.
 
 ## 💻 Technologies Used
 
